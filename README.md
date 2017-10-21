@@ -17,21 +17,21 @@ A partial reproduction of Google's 'Think with Google' website for week 2 of Epi
 
 ## Setup/Installation Requirements
 
-* _Clone the "think-Google" repository to your desktop from GitHub here: https://github.com/jbellwaite/think-Google.git_
-* _Open the "think-Google" folder_
+* _Clone the "google" repository to your desktop from GitHub here: https://github.com/jbellwaite/google.git_
+* _Open the "google" folder_
 * _Open a web-browser, preferably Chrome._
 * _Drag "index.html" into an open tab in your web browser to open the application._
 
 _Use a text editor like Atom to edit code._
 
 ## GitHub GH-Pages link
-_https://jbellwaite.github.io/think-Google/_
+_https://jbellwaite.github.io/google/_
 
 ## Known Bugs
 
-* _I had a really difficult time getting my large screen rows to line up properly. I used Materialize's cards, and each time I tried to size the height of the cards, the content would become jarbled. I used a work-around by adding a media query at the large level, but it still doesn't work exactly as I'd like it to have. _
+* _I had a really difficult time getting my large screen rows to line up properly. I used Materialize's cards, and each time I tried to size the height of the cards, the content would become jarbled. I used a work-around by adding a media query at the large level, but it still doesn't work exactly as I'd like it to have._
 
-* _The menu item in the navigation (at the left of the main "Think With Google" logo) doesn't currently work. I didn't have time to get to it, and since it wasn't part of the required portion of the project, I left it for work on later. _
+* _The menu item in the navigation (at the left of the main "Think With Google" logo) doesn't currently work. I didn't have time to get to it, and since it wasn't part of the required portion of the project, I left it for work on later._
 
 ## Technologies Used
   * CSS
